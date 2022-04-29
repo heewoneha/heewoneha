@@ -1,6 +1,6 @@
 ¯\_(ツ)_/¯ ✨
 
-> Hi! I'm Heewon Jeong. I'm majoring in computer engineering at CBNU.
+> Hi! I'm Heewon Jeong. I'm majoring in Computer Engineering at CBNU.
 
 ## 🛠 Skills
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)
@@ -9,6 +9,7 @@
 ![HTML5](https://img.shields.io/badge/-HTML5-05122A?style=flat&logo=HTML5)
 ![CSS3](https://img.shields.io/badge/-CSS3-05122A?style=flat&logo=CSS3&logoColor=1572B6)
 ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)
+![jQuery](https://img.shields.io/badge/-jQuery-05122A?style=flat&logo=jquery)
 
 #### Tools
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)
@@ -26,6 +27,8 @@
 ## 🐥 I am studying . . .
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)
-![jQuery](https://img.shields.io/badge/-jQuery-05122A?style=flat&logo=jquery)
 ![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql)
 ![Android](https://img.shields.io/badge/-Android-05122A?style=flat&logo=android)
+
+## 🎵 Experience
+- 충북대학교 SW봉사단 4기 (2022)
