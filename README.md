@@ -17,7 +17,7 @@
 
   
 ## 🐥 I am studying . . .
-![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react) ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js) ![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql) ![Android](https://img.shields.io/badge/-Android-05122A?style=flat&logo=android)
+![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react) ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js) ![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql) ![Android](https://img.shields.io/badge/-Android-05122A?style=flat&logo=android) ![Django](https://img.shields.io/badge/-Django-05122A?style=flat&logo=Django)
 
 ## 🎵 Experience
 - 충북대학교 SW봉사단 4기 (2022)
